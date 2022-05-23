@@ -1,0 +1,23 @@
+{
+  "name": "testing-js-jest",
+  "version": "1.0.0",
+  "description": "Testing In JavaScript With Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sara219/testing-js-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sara219/testing-js-jest/issues"
+  },
+  "homepage": "https://github.com/sara219/testing-js-jest#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
